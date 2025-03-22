@@ -1,0 +1,150 @@
+body {
+	background-color: lightsteelblue;
+}
+
+.details{
+	border: 6px solid;
+	background-color: silver;
+	font-size: 30px;
+}
+
+.head{
+	color: darkmagenta;
+	font-family: cursive;
+}
+
+h2{
+
+	color: darkmagenta;
+	font-family: cursive;
+}
+
+h3{
+
+	color: darkmagenta;
+	font-family: cursive;
+}
+
+.paragraph1{
+
+	border: 5px solid;
+	background-color: cyan;
+	font-size: 25px;
+}
+
+.paragraph2{
+
+	text-align: center;
+	background-color: darkcyan;
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+.article1{
+
+	font-family: fantasy;
+	border: 6px solid black;
+	font-size: 29px;
+	width: 400px;
+	height: 230px;
+	background-color: rgba(50, 200, 180, .5);
+}
+
+.img{
+
+	font-size: 30px;
+}
+
+.link{
+
+	border: 5px solid black;
+	color: red;
+	font-size: 26px;
+
+}
+
+.paragraph3{
+	font-size: 30px;
+	text-align: center;
+	background-color: rgba(30, 250, 100, .4);
+	border: 5px solid black;
+
+
+}
+
+.article2{
+
+	font-size: 30px;
+	color: lawngreen;
+	background-color: rgba(0, 0, 0, .4);
+}
+
+.paragraph4{
+
+	font-size: 30px;
+	text-align: center;
+	background-color: rgba(30, 250, 100, .4);
+	border: 5px solid black;
+}
+
+.article3{
+
+
+	font-size: 30px;
+	color: lawngreen;
+	background-color: rgba(0, 0, 0, .4);
+
+
+}
+
+.journey{
+
+		font-size: 30px;
+	text-align: center;
+	background-color: rgba(30, 250, 100, .4);
+	border: 5px solid black;
+}
+
+
+.article4{
+	font-size: 30px;
+	color: lawngreen;
+	background-color: rgba(0, 0, 0, .4);
+}
+
+.social{
+
+		font-size: 30px;
+	text-align: center;
+	background-color: rgba(30, 20, 10, .4);
+	border: 5px solid black;
+
+
+}
+
+.article5{
+
+		font-size: 30px;
+	color: indianred;
+	border: 5px solid red;
+		width: 150px;
+	height: 180px;
+}
+
+.address{
+
+	font-size: 30px;
+	text-align: center;
+	background-color: rgba(30, 20, 10, .4);
+	border: 5px solid black;
+
+}
+
+.article6{
+
+	font-size: 30px;
+	color: indianred;
+	border: 5px solid black;
+
+
+}
